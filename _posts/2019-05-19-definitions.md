@@ -3,7 +3,9 @@ layout: post
 ---
 
 DEFINITIONS
-**Aggregation Project:** Organization or other body that collects metadata, or metadata and digital objects, from multiple sources and other organizations for the sake of unified presentation, discovery, and collocation of the described resources. Aggregators could include organizations that regularly or in an automated fashion retrieve metadata from known sources, or they could include organizations that collect and expose contributed metadata from partners (or any mix therein). Example(s): [DPLA](https://dp.la/), [SHARE] (http://www.share-research.org/).
+
+
+**Aggregation Project:** Organization or other body that collects metadata, or metadata and digital objects, from multiple sources and other organizations for the sake of unified presentation, discovery, and collocation of the described resources. Aggregators could include organizations that regularly or in an automated fashion retrieve metadata from known sources, or they could include organizations that collect and expose contributed metadata from partners (or any mix therein). Example(s): [DPLA](https://dp.la/), [SHARE](http://www.share-research.org/).
 
 **Digital Collections:** A collection of digital resources collected and managed by an organization with metadata about those resources made accessible via an online interface. Resources are typically digitized cultural heritage, primary-source material that would otherwise be inaccessible without physically visiting the local organization, or unique born-digital resources.
 
