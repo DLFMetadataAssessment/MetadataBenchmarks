@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This site is dedicated to the study of benchmarks in metadata quality. As a part of the [Digital Library Federation Forum Assessment Interest Group Metadata Working Group](https://wiki.diglib.org/Assessment),the Metadata Quality Benchmarks subgroup formed in early 2018.  
+This site is dedicated to the study of benchmarks in metadata quality. As a part of the [Digital Library Federation Forum Assessment Interest Group Metadata Working Group](https://wiki.diglib.org/Assessment), the Metadata Quality Benchmarks subgroup formed in early 2018.  
 
 Please contact the Metadata Quality Benchmarks co-leaders of this study with any questions.  
 
