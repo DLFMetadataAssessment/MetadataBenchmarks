@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This site is dedicated to the study of benchmarks in metadata quality. As a part of the [Digital Library Federation Forum Assessment Interest Group Metadata Working Group](https://wiki.diglib.org/Assessment),the Metadata Quality Benchmarks subgroup formed in early 2018.  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Please contact the Metadata Quality Benchmarks co-leaders of this study with any questions.  
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Rachel Wittmann, Digital Curation Librarian
+Marriott Library, University of Utah
+rachel.wittmann@utah.edu
 
 
-[jekyll-organization]: https://github.com/jekyll
+Andrea Payant, Metadata Librarian
+Merrill-Cazier Library, Utah State University
+andrea.payant@usu.edu
